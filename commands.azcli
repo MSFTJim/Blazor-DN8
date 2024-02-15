@@ -32,6 +32,8 @@ dotnet nuget push ./bin/Release/SuperModal.1.0.8.nupkg -s LocalNuget
 dotnet nuget push "bin/Release/PROJECT_NAME.1.0.0.nupkg" --source "github"
 dotnet nuget push "bin/Release/SuperModal.1.0.11.nupkg" --source "github"
 
+
+
 dotnet add package SuperModal  
 # add using
 
