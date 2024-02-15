@@ -10,7 +10,6 @@
     <Authors>Jim Developer, Tim Programmer</Authors>
     <Company>PluralPoint</Company>  
     <RepositoryUrl>https://github.com/pappyangel/blazor-dn8</RepositoryUrl>
-
   </PropertyGroup>
 
   <ItemGroup>
